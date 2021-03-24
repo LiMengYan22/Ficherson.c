@@ -1,12 +1,13 @@
 # Ficherson.c
 Leer Terminal e insertar info en **Fichero.txt**, con C..
 <hr>
+
 ```
 
 # compilar en terminal: 
-$ gcc Ficherson.c -o Ficherson
+$ gcc script.c -o script
 
 # ejecutar en terminal:
-$ ./Ficherson
+$ ./script
 
 ```
